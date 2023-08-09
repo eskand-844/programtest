@@ -1,5 +1,5 @@
 #for loop
-student_scores = [78,98,88,68]
+student_scores = [9,98,88,99]
 highest_score = 0
 for score in student_scores:
     if score > highest_score:
